@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Skews the text and flashes it cyan in step with how much the shot is moving — still frames stay clean, fast action tears.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
